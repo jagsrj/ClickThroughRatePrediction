@@ -20,3 +20,5 @@ An important exercise marketing companies need to do before making any of the ab
  
 
 In online advertising, CTR is a very important metric for evaluating ad performance. CTR prediction systems are thus essential and widely used for sponsored search and real-time bidding.
+
+As part of this assignment, you are required to predict whether a user will click on an ad or not. A classification method usually designed to solve such problems is best suited here.
